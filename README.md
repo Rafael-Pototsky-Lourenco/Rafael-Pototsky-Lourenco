@@ -83,5 +83,3 @@ Tenho também experiência anterior no setor financeiro, o que me deu uma visão
 - Email: rafaelpototskylourenco10@gmail.com
 
 ---
-
-![Snake animation](https://github.com/Rafael-Pototsky-Lourenco/Rafael-Pototsky-Lourenco/blob/output/github-contribution-grid-snake.svg)
